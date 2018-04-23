@@ -1,0 +1,23 @@
+h1 {
+	/*color: purple;*/
+	/*color: #FF0000; full red*/
+	color: #FF8000; /*orange*/
+	border: 2px solid purple;
+}
+
+li {
+	/*color: green;*/
+	color: rgb(0, 0, 122);
+}
+
+h4 {
+	color: blue;
+	background: rgb(255,100,80);
+}
+
+body {
+	background-color: pink;
+	/*background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBsXewwqbQv_hSP63gYUxWqCH3J6D8VoXy084zqa3hDvB5Qu2omg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}

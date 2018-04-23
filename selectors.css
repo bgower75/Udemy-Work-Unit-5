@@ -1,0 +1,28 @@
+/*star*/
+* {
+
+}
+
+/*descendent selector*/
+/*example of all anchor tags inside an li tag*/
+li a {
+
+}
+
+/*adjacent selector*/
+/*example of all ul tags listed after the h4*/
+h4 + ul {
+
+}
+
+/*attribute selector*/
+/*example of all href attributes that have a link to google*/
+a[href="http://www.google.com"] {
+
+}
+
+/*nth of type*/
+/*example of turning 3rd ul purple*/
+ul:nth-of-type(3) {
+	background: lightgrey;
+}
